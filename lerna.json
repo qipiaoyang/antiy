@@ -11,8 +11,7 @@
   "command": {
     "publish": {
       "npmClient": "npm",
-      "verifyAccess": false,
-      "registry": "https://www.npmjs.com"
+      "verifyAccess": false
     },
     "bootstrap": {
       "registry": "https://www.npmjs.com",
@@ -21,5 +20,5 @@
       ]
     }
   },
-  "version": "0.0.2"
+  "version": "0.0.2.1"
 }
