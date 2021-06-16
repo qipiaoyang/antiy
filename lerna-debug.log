@@ -1,0 +1,6 @@
+36 error Error: Command failed with exit code 128: git tag vnull -m vnull
+36 error fatal: tag 'vnull' already exists
+36 error     at makeError (/Users/qipiaoyang/Documents/antiy/avl_npm/antiy/node_modules/execa/lib/error.js:60:11)
+36 error     at handlePromise (/Users/qipiaoyang/Documents/antiy/avl_npm/antiy/node_modules/execa/index.js:118:26)
+36 error     at processTicksAndRejections (internal/process/task_queues.js:93:5)
+36 error     at async Promise.all (index 0)
