@@ -1,11 +1,12 @@
 {
-  "name": "test",
-  "version": "0.0.3",
+  "name": "antiy_test",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "dd22300d9a0b041df6edb7de7f41df459fe38bdb"
 }
