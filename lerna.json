@@ -12,10 +12,10 @@
     "publish": {
       "npmClient": "npm",
       "verifyAccess": false,
-      "registry": "https://www.npmjs.com"
+      "registry": "https://registry.npmjs.org/"
     },
     "bootstrap": {
-      "registry": "https://www.npmjs.com",
+      "registry": "https://registry.npmjs.org/",
       "npmClientArgs": [
         "--no-package-lock"
       ]
