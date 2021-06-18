@@ -1,6 +1,6 @@
 {
-  "name": "antiy_test",
-  "version": "1.0.9",
+  "name": "packages",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "gitHead": "be1506914b79e43c30ac67f325d4cee3e03338d3"
+  "license": "ISC"
 }
