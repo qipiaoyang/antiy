@@ -1,0 +1,28 @@
+{
+  "name": "avl-cli",
+  "version": "1.0.0",
+  "description": "安天前端脚手架",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "avl": "cli.js"
+  },
+  "author": "齐飘洋",
+  "license": "ISC",
+  "devDependencies": {
+    "np": "^7.5.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "clipboardy": "^2.3.0",
+    "execa": "^5.1.1",
+    "glob": "^7.1.7",
+    "inquirer": "^8.1.1",
+    "mkdirp": "^1.0.4",
+    "prettier": "^2.3.1",
+    "yargs-parser": "^20.2.9",
+    "yeoman-environment": "^3.4.1",
+    "yeoman-generator": "^5.3.0"
+  }
+}
